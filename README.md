@@ -106,24 +106,47 @@ The portal is a standalone web application with Augmented Reality and Artificial
 - Tools & Technologies: React.js, JavaScript (ES6+), Tailwind CSS, Node.js, Express.js, MongoDB, Firebase Authentication, JWT, Git, GitHub, REST API  
 <img width="1920" height="1080" alt="Corporate Agile Project Workflow Infographic Presentation (3)" src="https://github.com/user-attachments/assets/ad9c38f2-b2e8-4976-9b80-95712d91e6f7" />
 
-## 6. Expected Impact  
+## 6. Workflow Gears Motion
+
+1. **Planning and Design** - Wireframe pages, design AR assets, select Nagri fonts in Blender.
+2. **Frontend Development** - Build React app with 2D Phaser game and AR.js 3D letters.
+3. **AI and Backend Setup** - Setup Node.js backend, OpenAI chatbot, Bangla-Nagri converter.
+4. **AR and Immersive Features** - Setup Node.js backend, OpenAI chatbot, Bangla-Nagri converter.
+5. **Integration and Gamification** - Link features with levels, badges, 1952 cultural content.
+6. **Testing & Deployment** - Test/deploy on Vercel, create demo video and pitch deck.
+
+<img width="1920" height="1080" alt="Corporate Agile Project Workflow Infographic Presentation (3)" src="https://github.com/user-attachments/assets/cc8fc736-45d5-437f-ba80-4cd5c3886747" />
+
+
+## 7. Expected Impact  
 - Revive and promote Sylheti Nagri script.  
 - Make language learning modern, fun, and accessible.  
 - Encourage youth engagement with heritage.  
 - Showcase Bangladesh's innovation in culturally enriched digital technology.  
 
-## 7. Sustainable Development Goals :
-<img width="1920" height="1080" alt="Corporate Agile Project Workflow Infographic Presentation (2)" src="https://github.com/user-attachments/assets/556f41e2-82dc-4bbc-9bde-90f935f72c89" />
+## 8. Sustainable Development Goals :
+<img width="1920" height="1080" alt="Corporate Agile Project Workflow Infographic Presentation (2)" src="https://github.com/user-attachments/assets/b74f567d-cfbd-4abe-8086-f34bfd4ab52f" />
 
-## 8. Team member Information  
+## 9. Team member Information  
 
 Pritom Paul: Lead Researcher, XR Developer & System Architect (Team Lead)  
 Shivani Gokul Badgujar: XR Conceptualizer, 3D Designer & AI Developer  
 Ratul Saha Roy: Software Developer (Full-Stack) & Video Editor  
 Banidipa Chakraborty: Graphic Designer, Content Writer & Vocal Artist  
 
-<img width="1920" height="1080" alt="Corporate Agile Project Workflow Infographic Presentation (1)" src="https://github.com/user-attachments/assets/00533b9c-b264-4e3b-ab92-f254b18155dd" />
+<img width="1920" height="1080" alt="Corporate Agile Project Workflow Infographic Presentation (1)" src="https://github.com/user-attachments/assets/3e236aa0-355c-4930-855f-8727be1ffa2c" />
 
 
-## 9. Conclusion  
-The Sylheti Nagri Immersive Learning Portal is a fusion of heritage and innovation. By combining AR, Artificial Intelligence, and gamified learning, it Artificial Intelligence ms to preserve the Sylheti Nagri language while engaging learners in a modern, interactive way. This project represents Bangladesh's potential to lead in culturally enriched digital innovation.
+## 10. Conclusion  
+The Sylheti Nagri Immersive Learning Portal is a fusion of heritage and innovation. By combining AR, Artificial Intelligence, and gamified learning, it Artificial Intelligence ms to preserve the Sylheti Nagri language while engaging learners in a modern, interactive way. This project represents Bangladesh's potential to lead in culturally enriched digital innovation.                          
+
+## Project Summary
+
+The Sylheti Nagri Immersive Learning Portal is an innovative Ed-Tech solution for the MillionX Bangladesh – AI Innovation Hackathon 2025, targeting the Adaptive Tutors, Learning Analytics Dashboard, and Multimodal Learning Assistant challenge. This web-based, mobile-friendly platform fuses Augmented Reality (AR), AI-powered transliteration, gamified modules, and cultural heritage to preserve and modernize the Sylheti Nagri script. Key features include a digital keyboard, interactive 3D AR letters with pronunciation, Bangla-to-Nagri conversion, leveled AR games, an AI conversational chatbot guide, and historical content inspired by the 1952 Language Movement. Built with Unity AR Foundation, React.js, Node.js, and OpenAI models, it ensures offline accessibility, scalability, and cultural sensitivity for learners, educators, and children in low-bandwidth regions.
+
+
+## Project Details
+
+- **Demo Video:** [https://drive.google.com/file/d/1gPnAWSY9Tf2xoQfIGydUBa54I8N_FmPd/view?usp=sharing](https://drive.google.com/file/d/1gPnAWSY9Tf2xoQfIGydUBa54I8N_FmPd/view?usp=sharing)
+- **Full Report:** [https://drive.google.com/file/d/19exSnWhJpWogXmWV1_6lDHoGq6U9vlFg/view?usp=sharing](https://drive.google.com/file/d/19exSnWhJpWogXmWV1_6lDHoGq6U9vlFg/view?usp=sharing)
+
