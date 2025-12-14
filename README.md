@@ -9,6 +9,7 @@ Sylheti Nagri Immersive Learning Portal | MillionX Bangladesh AI Hackathon 2025 
 The purpose of this is to define the functional and non-functional requirements for the Sylheti Nagri Immersive Learning Portal. The system Artificial Intelligence ms to preserve, promote, and modernize the Sylheti Nagri language through immersive technologies such as Augmented Reality, Artificial Intelligence, and gamified learning modules. Artificial Intelligence was utilized for modification purposes rather than being directly integrated into the application.
 
 The platform is being developed to participate in the MillionX Bangladesh – AI Innovation Hackathon 2025, representing a unique fusion of linguistic tradition and cutting-edge technology. Each team must select exactly one domain and one challenge prompt. So, in this project the domain is ED-tech and challenge is Adaptive Tutors, Learning analytics dashboard. Multimodal learning assistant (text, voice, visuals).
+<img width="1920" height="1080" alt="Corporate Agile Project Workflow Infographic Presentation (6)" src="https://github.com/user-attachments/assets/5bc87591-d6ce-4fee-8fdf-03e25618f48b" />
 
 ### 1.2 Scope  
 The portal will provide:  
