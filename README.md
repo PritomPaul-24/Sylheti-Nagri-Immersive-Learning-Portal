@@ -1,7 +1,7 @@
 # Software Requirements Specification (SRS)
 ## Sylheti Nagri Immersive Learning Portal
 
----
+
 
 ## 1. Project Overview
 
@@ -16,7 +16,7 @@ The platform is being developed for the **MillionX Bangladesh – AI Innovation 
   - Learning Analytics Dashboard  
   - Multimodal Learning Assistant (Text, Voice, Visuals)
 
----
+
 <img width="883" height="497" alt="image" src="https://github.com/user-attachments/assets/f4adc07d-6fc0-4137-af9c-6edd014b265b" />
 
 ## 2. Problem Statement
@@ -31,7 +31,7 @@ Despite its rich historical and cultural significance, **Sylheti Nagri** is at r
 
 Traditional text-based approaches fail to preserve learner interest and cultural depth, making it difficult to sustain the script for future generations.
 
----
+
 
 ## 3. Target Users
 
@@ -41,7 +41,7 @@ Traditional text-based approaches fail to preserve learner interest and cultural
 - Cultural preservationists  
 - Hackathon evaluators and developers  
 
----
+
 
 ## 4. Why the Problem Matters
 
@@ -55,7 +55,7 @@ Traditional text-based approaches fail to preserve learner interest and cultural
 - Adoptable by schools, cultural institutions, and museums  
 - Demonstrates how AI and AR can support global cultural sustainability  
 
----
+
 
 ## 5. Solution Description
 
@@ -68,7 +68,7 @@ The system is a **standalone web application** enhanced with:
 
 > Artificial Intelligence is primarily used for modification, guidance, and transliteration rather than direct control of system operations.
 
----
+
 
 ## 6. Core Features
 
@@ -80,7 +80,7 @@ The system is a **standalone web application** enhanced with:
 - Language history and cultural storytelling section  
 - Offline-first learning support  
 
----
+
 
 ## 7. System Features
 <img width="961" height="472" alt="image" src="https://github.com/user-attachments/assets/cc4299ba-c152-44b8-875a-13db69c4eceb" />
@@ -113,7 +113,7 @@ The system is a **standalone web application** enhanced with:
 ### 7.6 Language History Section
 - Visual and textual content on Sylheti Nagri heritage  
 
----
+
 
 ## 8. User Journey / Flow
 
@@ -125,7 +125,7 @@ The system is a **standalone web application** enhanced with:
 6. Interacts with AI chatbot for guidance  
 7. Explores historical and cultural content  
 
----
+
 
 ## 9. Workflow Gears Motion
 
@@ -151,7 +151,6 @@ The system is a **standalone web application** enhanced with:
    - Demo video and pitch deck creation  
 <img width="686" height="391" alt="image" src="https://github.com/user-attachments/assets/784c0fc7-51f0-4e16-b606-cc8e6a21f946" />
 
----
 
 ## 10. Problem–Solution Mapping
 
@@ -161,7 +160,7 @@ Traditional language learning methods fail to preserve Sylheti Nagri effectively
 **Solution:**  
 An immersive, AI-assisted, AR-powered Ed-Tech platform that modernizes language learning while respecting cultural authenticity.
 
----
+
 
 ## 11. Demo Flow
 
@@ -174,7 +173,7 @@ An immersive, AI-assisted, AR-powered Ed-Tech platform that modernizes language 
 7. AI chatbot interaction  
 8. Cultural history visualization  
 
----
+
 
 ## 12. System Architecture
 
@@ -200,7 +199,6 @@ An immersive, AI-assisted, AR-powered Ed-Tech platform that modernizes language 
 - JWT  
 - Deployment on Vercel / Cloud infrastructure  
 
----
 
 ## 13. Functional Requirements
 
@@ -209,7 +207,7 @@ An immersive, AI-assisted, AR-powered Ed-Tech platform that modernizes language 
 - AI chatbot responsiveness  
 - Progress tracking and gamification  
 
----
+
 
 ## 14. Non-Functional Requirements
 
@@ -220,7 +218,7 @@ An immersive, AI-assisted, AR-powered Ed-Tech platform that modernizes language 
 - **Usability:** Simple UI with gamified UX  
 - **Cultural Sensitivity:** Respectful heritage representation  
 
----
+
 
 ## 15. Impact and Scalability
 
@@ -235,7 +233,7 @@ An immersive, AI-assisted, AR-powered Ed-Tech platform that modernizes language 
 - Integration with schools and Ed-Tech platforms  
 - AI analytics for adaptive learning paths  
 
----
+
 
 ## 16. Sustainable Development Goals (SDGs)
 
@@ -244,7 +242,7 @@ An immersive, AI-assisted, AR-powered Ed-Tech platform that modernizes language 
 - **SDG 11:** Sustainable Cities and Communities  
 <img width="765" height="430" alt="image" src="https://github.com/user-attachments/assets/35e3a1ff-e3fb-41f1-a078-c6288c0d3c6e" />
 
----
+
 
 ## 17. Team Overview
 
@@ -253,10 +251,12 @@ An immersive, AI-assisted, AR-powered Ed-Tech platform that modernizes language 
 - **Ratul Saha Roy** – Full-Stack Software Developer & Video Editor, Metropolitan University, Bangladesh  
 - **Banidipa Chakraborty** – Graphic Designer, Content Writer & Vocal Artist, Metropolitan University, Bangladesh  
 
----
+
 
 The **Sylheti Nagri Immersive Learning Portal** represents a powerful convergence of **heritage preservation** and **digital innovation**. By leveraging **Augmented Reality**, **Artificial Intelligence**, and **gamified learning**, the system provides a **sustainable, scalable, and engaging solution** for preserving an endangered script. This project highlights **Bangladesh’s capacity to lead** in culturally enriched, **future-ready Ed-Tech solutions**.
 
 ## Project Summary
 
-The **Sylheti Nagri Immersive Learning Portal** is an innovative Ed-Tech solution for the **MillionX Bangladesh – AI Innovation Hackathon 2025**, targeting **Adaptive Tutors, Learning Analytics Dashboard, and Multimodal Learning Assistant** challenges. This platform fuses **Augmented Reality**, **AI-powered transliteration**, **gamified learning modules**, and **cultural heritage** to preserve and modernize the Sylheti Nagri script. Key features include a digital keyboard, interactive 3D AR letters with pronunciation, Bangla-to-Nagri conversion, leveled AR games, an AI conversational chatbot, and historical content inspired by the **1952 Language Movement**. Built with **Unity AR Foundation, React.js, Node.js, and OpenAI models**, the system ensures **offline accessibility, scalability, and cultural sensitivity**, particularly for learners and educators in low-bandwidth regions.
+The **Sylheti Nagri Immersive Learning Portal** is an innovative Ed-Tech solution for the **MillionX Bangladesh – AI Innovation Hackathon 2025**, targeting **Adaptive Tutors, Learning Analytics Dashboard, and Multimodal Learning Assistant** challenges. This platform fuses **Augmented Reality**, **AI-powered transliteration**, **gamified learning modules**, and **cultural heritage** to preserve and modernize the Sylheti Nagri script. Key features include a digital keyboard, interactive 3D AR letters with pronunciation, Bangla-to-Nagri conversion, leveled AR games, an AI conversational chatbot, and historical content inspired by the **1952 Language Movement**. Built with **Unity AR Foundation, React.js, Node.js, and OpenAI models**, the system ensures **offline accessibility, scalability, and cultural sensitivity**, particularly for learners and educators in low-bandwidth regions. 
+
+[SRS Document](https://drive.google.com/file/d/11nRu16ljykNxhSTzI2zY1AT7DNLEJnr/view?usp=sharing)
